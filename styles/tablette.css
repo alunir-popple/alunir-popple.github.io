@@ -1,0 +1,119 @@
+HEADER
+#couverture{
+    height:40vh;
+}
+
+#menuM{
+    display:none;
+}
+
+.ulheader{
+    display:block;
+    display:flex;
+    position:fixed;
+    right:20px;
+    top:5px;
+    z-index:2;
+    list-style: none;
+}
+
+#contact2{
+    font-family: "KGRedHands";
+    font-size: 20px;
+    position:relative;
+    top:20%;
+}
+
+#telecharger{
+    border-style: solid;
+    background-color: #fdf9e4;
+    border-radius: 150px;
+    height: 50px;
+    width: 150px;
+}
+
+#telechargerdeux2{
+    color: #8900FA; 
+    position: relative;
+    text-align:center;
+    font-size:20px;
+    top:-8px;
+}
+/* CONTENU CENTRAL*/
+
+#ambiance{
+    font-family: "KGRedHands";
+    color: #8900faa2;
+    font-size: 40px;
+    position: absolute;
+    top: 500px;
+    left: 17%;
+    right:17%;
+}
+
+#accueil{
+    top: 12%;
+    left: 13%;
+    right:13%;
+}
+
+section {
+    transform: translateX(15px);
+    transform:translateY(0px);
+}
+
+#animpara{
+    display:flex;
+    flex-wrap:wrap;
+    width:150px;
+    position:relative;
+    left:60%;
+}
+
+#para{
+    position:relative;
+    font-family: "KGRedHands";
+    font-size : 20px;
+    top: 700px;
+    color: #1d1d1d;
+}
+
+#paradeux{
+    position:relative;
+    font-family: "KGRedHands";
+    font-size : 20px;
+    top: 1750px;
+    color: #1d1d1d;
+}
+
+#paratrois{
+    position:relative;
+    font-family: "KGRedHands";
+    font-size : 20px;
+    top: 2900px;
+    color: #1d1d1d;
+}
+
+/* FOOTER */
+footer{
+    height:40%;
+    top:400%;
+}
+
+.navfooter{
+    display:flex;
+    flex-direction:row;
+}
+
+.lititrefooter{
+    font-size: 2rem;
+}
+
+.lifooter{
+    font-size: 1.5rem;
+}
+
+.langage2{
+    display:block;
+    text-align:center;
+}

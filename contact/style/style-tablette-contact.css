@@ -1,0 +1,74 @@
+/*HEADER*/
+body{
+    background-size: auto 300%;
+}
+form p{
+    font-size: 15pt;
+}
+
+textarea{
+    width:500px;
+    height:130px;
+}
+
+#menuM{
+    display:none;
+}
+
+.ulheader{
+    display:block;
+    display:flex;
+    position:fixed;
+    right:20px;
+    top:5px;
+    z-index:2;
+    list-style: none;
+}
+
+#telecharger{
+    border-style: solid;
+    background-color: #fdf9e4;
+    border-radius: 150px;
+    height: 50px;
+    width: 150px;
+}
+
+#telechargerdeux2{
+    color: #8900FA; 
+    position:relative;
+    text-align:center;
+}
+
+.text{
+    width:250px;
+    height:30px;
+}
+
+.bouton{
+    width:80px;
+    height:30px;
+    font-size:11pt;
+}
+
+.textarea{
+    font-size:12pt;
+}
+
+/* FOOTER */
+footer{
+    height:30%;
+    top:100%;
+}
+
+.navfooter{
+    display:flex;
+    flex-direction:row;
+}
+
+.lititrefooter{
+    font-size: 2rem;
+}
+
+.lifooter{
+    font-size: 1.5rem;
+}

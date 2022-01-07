@@ -1,0 +1,68 @@
+#couverture{
+    height:55vh;
+}
+
+#couverture img{
+    transform:translateY(0%);
+}
+
+#ambiance{
+    font-family: "KGRedHands";
+    color: #8900faa2;
+    font-size: 60px;
+    position: absolute;
+    top: 650px;
+    left: 20%;
+    right: 20%;
+}
+
+#accueil{
+    font-size:70pt;
+    position:absolute;
+    top:150px;
+    left:23%;
+    right:23%;
+}
+
+#sectionune{
+    position: absolute;
+    top: 100%;
+    left: 22%;
+}
+#sectiondeux{
+    position: absolute;
+    top: 200%;
+    left: 22%;
+}
+#sectiontrois{
+    position: absolute;
+    top: 300%;
+    left: 22%;
+}
+
+#para{
+    font-family: "KGRedHands";
+    font-size : 20px;
+    position: relative;
+    top: 300px;
+    color: #1d1d1d;
+}
+
+#paradeux{
+    font-family: "KGRedHands";
+    font-size : 20px;
+    position: relative;
+    top: 1250px;
+    color: #1d1d1d;
+}
+#paratrois{
+    font-family: "KGRedHands";
+    font-size : 20px;
+    position: relative;
+    top: 2200px;
+    color: #1d1d1d;
+}
+
+.langage2{
+    font-size:15pt;
+}
